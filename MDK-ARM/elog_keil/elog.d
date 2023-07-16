@@ -1,9 +1,0 @@
-elog_keil\elog.o: ..\USER\APP\Easylogger\src\elog.c
-elog_keil\elog.o: ../USER/APP/Easylogger/inc/elog.h
-elog_keil\elog.o: ../USER/APP/Easylogger/inc/elog_cfg.h
-elog_keil\elog.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdint.h
-elog_keil\elog.o: D:\MDK\ARM\ARMCC\Bin\..\include\stddef.h
-elog_keil\elog.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdbool.h
-elog_keil\elog.o: D:\MDK\ARM\ARMCC\Bin\..\include\string.h
-elog_keil\elog.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdarg.h
-elog_keil\elog.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdio.h
